@@ -1,7 +1,7 @@
-<H3>Enter Name: MONIKA D</H3>
+<H3>Enter Name: MOULIDHAR</H3>
 <H3>Enter Register No: 212223240096</H3>
 <H3>Experiment 2</H3>
-<H3>Date: 08.04.2025</H3>
+<H3>Date: 11.04.2025</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
